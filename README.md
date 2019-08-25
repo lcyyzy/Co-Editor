@@ -18,6 +18,7 @@ git clone https://github.com/lcyyzy/Co-Editor.git
 ## User Guide and Functionality
 ### Log In
 Since the current version is only applicable in local area network, you should log in with host and port.
+
 ![https://github.com/lcyyzy/Co-Editor/raw/master/gif/login.gif]
 
 
