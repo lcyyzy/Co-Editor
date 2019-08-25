@@ -14,6 +14,11 @@ macOS Mojave Version 10.14.1
 ```bash
 git clone https://github.com/lcyyzy/Co-Editor.git
 ```
+### Run
+```bash
+cd ./Co-Editor
+electron .
+```
 
 ## User Guide and Functionality
 ### Log In
