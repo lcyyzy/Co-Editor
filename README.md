@@ -14,6 +14,7 @@ macOS Mojave Version 10.14.1
 ```bash
 git clone https://github.com/lcyyzy/Co-Editor.git
 ```
+
 ### Run
 ```bash
 cd ./Co-Editor
@@ -48,6 +49,11 @@ You can also send images.
 When you swith on the ```Realtime Sharing```, the current content will be directly broadcast to all your friends. They can see what you are editing in real time.
 
 ![img](https://github.com/lcyyzy/Co-Editor/raw/master/gif/realtime.gif)
+
+### File Manipulation
+You can open a local file and share it, or save the contents into a local file.
+
+![img](https://github.com/lcyyzy/Co-Editor/raw/master/gif/file.gif)
 
 ### Delete Friend
 You can delete friends unilaterally. After deleting a friend, his editing will no longer be sent/realtime shared to you.
